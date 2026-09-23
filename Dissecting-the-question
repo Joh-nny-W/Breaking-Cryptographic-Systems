@@ -1,0 +1,18 @@
+What are my goals?
+
+The question: What determines the computational difficulty of breaking a cryptographic system, and how can that difficulty be reduced?
+
+There are many different types of cryptographic systems of ranging complexity, so I will start simple and work my way up.
+The different systems I want to investigate are:
+- Caesar ciphers
+- Vigenere ciphers
+- Hill ciphers
+- Substitution ciphers
+- Toy Feistel/RSA
+
+How can I measure the computational difficulty? Keep track of:
+- Attack method
+- Number of keys tested
+- Time taken
+- Ciphertext length
+- Whether plaintext was recovered correctly
